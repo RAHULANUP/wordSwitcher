@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&family=Ubuntu:ital,wght@1,700&display=swap');
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.navbar{
+    display:flex;
+    justify-content:space-between;
+    list-style:none;
+    padding:15px;
+    background-color: aliceblue;
+}
+.navbar li a{
+    color:rgb(30, 30, 157);
+    font-size: large;
+    font-family:'Poppins';
+    text-decoration: none;
+}
+.wordify{
+    font-weight:700;
+}
+
