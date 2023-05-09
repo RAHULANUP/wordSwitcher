@@ -4,6 +4,9 @@ A web-app to work with words in an effective manner
 
 Contributions are welcome!
 
+# Hosting URL 
+Hosting URL : [https://wordswitcher.netlify.app/](https://wordswitcher.netlify.app/)
+
 ### `npm start`
 
 Runs the app in the development mode.\
